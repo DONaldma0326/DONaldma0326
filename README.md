@@ -1,10 +1,9 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Don Ma</h1>
-<h3 align="center">A colleage student who ae passionate about coding:)</h3>
+<h3 align="center">a college student who are passionate about coding:)</h3>
 
-- 🌱 I’m currently learning **App development**
+- 🌱 I’m currently learning **App Development**
 
-- 💬 Ask me about **flutter ,nodejs ,java**
+- 💬 Ask me about **Flutter ,Nodejs ,Java**
 
 - 📫 How to reach me **donma0326@gmail.com**
 
