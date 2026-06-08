@@ -1,5 +1,11 @@
 remote_theme: "mmistakes/minimal-mistakes"
 title: "Don Ma | Data/ML Profile"
 description: "Personal blog documenting side projects, technical reading, and thoughts on data and ML/AI."
+author: "Don Ma"
+bio: "Data Engineer | MLOps Enthusiast| Lifelong Learner"
+links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/don-ma-b478a9180"
 # Important: Set your timezone
 timezone: "Asia/Hong_Kong"
