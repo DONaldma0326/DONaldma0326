@@ -14,7 +14,7 @@
 
 ### 📖 My Blog
 Check out my project documentation and engineering notes:
-👉 [DONaldma0326.github.io](https://DONaldma0326.github.io)
+👉 [DONaldma0326.github.io](https://donaldma0326.github.io/DONaldma0326/)
 
 ### 🏀 Beyond Code
 * Basketball & Gym enthusiast.
