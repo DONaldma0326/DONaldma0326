@@ -1,6 +1,6 @@
 ## Hi, I'm Don 👋
 
-**Data Engineer** focused on distributed computing, MLOps, and scalable data platforms. .
+**Data Engineer** focused on distributed computing, MLOps, and scalable data platforms.
 
 ### 🛠 Tech Stack
 * **Languages:** Python, SQL, Go (learning)
