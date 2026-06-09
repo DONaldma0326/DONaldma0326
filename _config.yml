@@ -1,4 +1,3 @@
-remote_theme: "mmistakes/minimal-mistakes"
 title: "Don Ma's Blog"
 description: "Personal blog documenting side projects, technical reading, and thoughts on data and ML/AI."
 author: "Don Ma"
@@ -10,6 +9,7 @@ links:
 # Important: Set your timezone
 timezone: "Asia/Hong_Kong"
 remote_theme: mmistakes/minimal-mistakes@4.28.0
+future: true
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
