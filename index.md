@@ -2,10 +2,9 @@
 layout: home
 author_profile: true
 ---
-<div class="notice--primary">
-  <strong>Data engineering notes, project write-ups, and exam prep.</strong><br>
-  I use this blog to document what I'm building, learning, and shipping.
-</div>
+<strong>Data engineering notes, project write-ups, and exam prep.</strong><br>
+I use this blog to document what I'm building, learning, and shipping.
+
 
 ## What you'll find here
 
