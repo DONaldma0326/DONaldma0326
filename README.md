@@ -1,6 +1,6 @@
 ## Hi, I'm Don 👋
 
-**Data Engineer** focused on distributed computing, MLOps, and scalable data platforms.
+**AI and Data Engineer** focused on distributed computing, MLOps, and scalable data platforms.
 
 ### 🛠 Tech Stack
 * **Languages:** Python, SQL, Go (learning)
@@ -8,7 +8,7 @@
 * **Cloud & Infra:** AWS, Azure, Terraform, CI/CD, Docker
 
 ### 🚀 Focus
-* Building production-grade MLOps pipelines.
+* Data and Ai architecture design. 
 * Deep-diving into distributed systems.
 * Sharing knowledge and technical insights.
 
